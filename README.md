@@ -1,39 +1,39 @@
-# StoreFront Studio: documentation and examples
+# StoreFront Studio — user documentation
 
-App Store screenshot composition and localized marketing asset workflows for Apple devices.
+Compose localized App Store screenshots with 3D devices, typography and export/upload workflows.
 
-Maintained by Arte Soft. [Official website](https://storefront-studio.arte-soft.com/) · [Company](https://arte-soft.com/)
+[Official product website](https://storefront-studio.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6757389314)
 
-This public repository contains product documentation, reproducible workflow examples and a measurement protocol. It is not the application's source-code repository.
+## Who this is for
 
-## Product overview
+App developers and designers preparing device-specific storefront screenshot sets.
 
-- Compose app screenshots inside 3D device presentations.
-- Arrange backgrounds, typography and multi-panel layouts.
-- Prepare localized screenshot sets for different storefronts.
-- Use the supported App Store Connect upload workflow when configured.
+## Read the documentation
 
-## Example: prepare a localized screenshot set
+| Guide | What you will find |
+| --- | --- |
+| [Quick start](QUICK_START.md) | Prepare, complete and verify your first task. |
+| [Practical workflows](WORKFLOWS.md) | Concrete use cases and review steps. |
+| [Features and limitations](FEATURES_AND_LIMITS.md) | Supported workflows and important boundaries. |
+| [Frequently asked questions](FAQ.md) | Answers about usage, access and expectations. |
+| [Privacy and support](PRIVACY_AND_SUPPORT.md) | Data handling, public sources and a useful support report. |
 
-1. Capture the actual app interface in the target language.
-2. Import the capture and choose the matching device presentation.
-3. Add a short headline describing a visible feature.
-4. Check long translations, right-to-left text, contrast and safe margins.
-5. Export for the intended screenshot slot and inspect the full-resolution output.
-6. Confirm current App Store Connect requirements before upload.
+## At a glance
 
-Screenshot compositions and App Preview videos are different deliverables. A framed marketing composition should not be assumed to qualify as an App Preview. This repository does not provide an Apple approval guarantee.
+| Capability | What the product documents | Boundary to check |
+| --- | --- | --- |
+| Composition | Device positioning, lighting, backgrounds and rich headline text. | A device frame must match the source capture and should not hide important UI. |
+| Localization | Adapt copy and layouts across storefronts and device sizes. | Automatic adaptation needs a visual review for long strings, right-to-left text and small controls. |
+| Export and upload | Export screenshots and use the configured App Store Connect upload workflow. | A successful upload does not mean Apple has approved the asset or listing. Free exports are described as ad-supported and watermarked; Pro removes these. |
 
-[App Store](https://apps.apple.com/app/id6757389314)
+## Scope and provenance
 
-## Evaluation
+Published by the product developer as first-party user documentation. It covers public behavior, examples and limitations; it does not contain the private application source, credentials or internal operational configuration. It is not an independent review, security audit or comparative benchmark.
 
-See [BENCHMARKS.md](BENCHMARKS.md) for the measurement protocol and [RESULT_TEMPLATE.md](RESULT_TEMPLATE.md) for a run report. **No measured benchmark results are published in this initial release.** Example inputs and expected answers are clearly distinguished from observed application results.
+Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-## Sources and freshness
+Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
 
-Product overview prepared on 2026-11-04 from the [official product site](https://storefront-studio.arte-soft.com/) and developer-provided product materials. Features, availability and pricing can change; consult the current app and official site. This is first-party documentation, not an independent review or evidence of superiority over another product.
+## Evaluation resources
 
-## Feedback
-
-Open an issue for documentation corrections or reproducible workflow problems. Include the product version, operating system and minimal reproduction. Do not post passwords, API keys, account identifiers, private media or customer data.
+The existing [measurement protocol](BENCHMARKS.md) and [run template](RESULT_TEMPLATE.md) remain available. They are protocols, not completed benchmark results.
