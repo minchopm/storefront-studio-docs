@@ -2,7 +2,7 @@
 
 Compose localized App Store screenshots with 3D devices, typography and export/upload workflows.
 
-[Official product website](https://storefront-studio.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6757389314)
+[Official product website](https://storefront-studio.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6757389314) · [Side-by-side comparisons](https://storefront-studio.arte-soft.com/compare/) · [Guides & workflows](https://storefront-studio.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://storefront-studio.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
