@@ -1,0 +1,37 @@
+# StoreFront Studio — Public Documentation & Technical Reference
+
+> Native 3D App Store screenshot designer and ASO localization suite for iPhone, iPad, and Mac combining interactive RealityKit Apple device frames, panoramic multi-panel typography, and direct App Store Connect REST API upload.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/storefront-studio-docs
+- **GitHub Pages URL**: https://minchopm.github.io/storefront-studio-docs/
+- **Platforms**: iOS 26+, iPadOS 26+, macOS
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- Interactive 3D iPhone, iPad, and Mac device framing built natively with RealityKit and multi-panel panoramic canvas composition.
+- Multi-storefront ASO copy localization and automated screenshot slot sizing across Apple required display dimensions.
+- Direct App Store Connect API upload from iOS, iPadOS, or macOS (Free tier + Pro $3.99/mo, $39.99/yr, or $49.99 one-time Lifetime).
+
+## Canonical Web Hubs
+- [Primary Website](https://storefront-studio.arte-soft.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://storefront-studio.arte-soft.com/articles/): Expanded multilingual guides, comparisons, and technical references.
+- [Apple App Store](https://apps.apple.com/us/app/storefront-studio/id6757389314): Official App Store listing by Arte Soft EOOD.
+- [Side-by-Side Comparisons](https://storefront-studio.arte-soft.com/compare/): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://storefront-studio.arte-soft.com/articles/): Step-by-step operational guides.
+- [Full Site LLM Reference](https://storefront-studio.arte-soft.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/storefront-studio-docs/)
+- [BENCHMARKS.md](https://minchopm.github.io/storefront-studio-docs/BENCHMARKS.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/BENCHMARKS.md)
+- [FAQ.md](https://minchopm.github.io/storefront-studio-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/storefront-studio-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/storefront-studio-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/MANUAL.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/storefront-studio-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/storefront-studio-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/storefront-studio-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/QUICK_START.md)
+- [RESULT_TEMPLATE.md](https://minchopm.github.io/storefront-studio-docs/RESULT_TEMPLATE.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/RESULT_TEMPLATE.md)
+- [WORKFLOWS.md](https://minchopm.github.io/storefront-studio-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/storefront-studio-docs/main/WORKFLOWS.md)
